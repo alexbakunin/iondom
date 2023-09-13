@@ -43,6 +43,10 @@ html{
     box-sizing: inherit;
 }
 
+a{
+    outline: none!important;
+}
+
 img{
     max-width: 100%;
     height: auto;
